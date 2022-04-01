@@ -13,3 +13,8 @@ This notebook is where I practice NLP with the topics as below:
     - The arff files already removed stop words and stemming words
     - Pick classifiers of your choice to conduct text classification
 
+3. **Sentiment Analysis using AWS Comprehend**
+    - Get to know boto3 module, Amazon Comprehend
+    - Read boto3 documentation
+    - Recognize entities, extract key phrases, detect dominant languages, detect PII, determine sentiment, and analyze syntax
+    - Visualize results
