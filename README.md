@@ -18,3 +18,10 @@ This notebook is where I practice NLP with the topics as below:
     - Read boto3 documentation
     - Recognize entities, extract key phrases, detect dominant languages, detect PII, determine sentiment, and analyze syntax
     - Visualize results
+    
+4. **Sentiment Analysis using TextBlob and Vader**
+    - Given 1000 positive and 1000 negative processed sentiment analysis text pieces in two folders pos and neg
+    - Understand TextBlob and Vader documentations
+    - Conduct sentiment analysis on the dataset
+    - Visualize data (distribution)
+    - Set thresholds for classifying sentences as postive or negative
